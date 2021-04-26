@@ -8,7 +8,8 @@
   - Searching Posts and Sorting Price,
   
 * What am i using on this project? 
-  React, Redux, Express.js, MongoDB & mongoose + published on AWS EC2 (closed) 🙀
+  Front : React, Redux, 
+  Back : Express.js, MongoDB & mongoose + published on AWS EC2 (closed) 🙀
 
 
 ### 📝 Final Repositorys And Packages.json
