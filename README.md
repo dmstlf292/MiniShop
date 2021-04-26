@@ -21,11 +21,15 @@
 ### 🌄 Screen Capture
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73155839/113698139-18b8cd00-970f-11eb-8d61-fe85d62adfcb.png" width="40%" height="50%">
-  <img src="https://user-images.githubusercontent.com/73155839/113698144-19516380-970f-11eb-9559-1c3741b64607.png" width="40%" height="50%">
-  <img src="https://user-images.githubusercontent.com/73155839/113698146-1a829080-970f-11eb-8975-2a5ce12a3710.png" width="40%" height="50%">
-  <img src="https://user-images.githubusercontent.com/73155839/113698150-1b1b2700-970f-11eb-97c1-7a09316ed532.png" width="40%" height="50%">
-  <img src="https://user-images.githubusercontent.com/73155839/113698153-1ce4ea80-970f-11eb-9a04-435d527228a9.png" width="40%" height="50%">
-  <img src="https://user-images.githubusercontent.com/73155839/113698159-1e161780-970f-11eb-8b8e-778153abd295.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040808-705fae00-a6a7-11eb-9b4e-bcde31d4b4e9.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040811-7190db00-a6a7-11eb-842f-f26697210a14.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040815-72c20800-a6a7-11eb-981f-dd6661ec1ee9.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040817-735a9e80-a6a7-11eb-8b52-3c731ca49cab.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040820-748bcb80-a6a7-11eb-9f09-ff3b164c0033.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040822-75246200-a6a7-11eb-9634-1753f26d4090.png" width="40%" height="50%">
+  
+  <img src="https://user-images.githubusercontent.com/73155839/116040824-75246200-a6a7-11eb-8086-1dd73215b3a0.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040846-79e91600-a6a7-11eb-9f0f-ec9feb98dfaf.png" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116040854-7bb2d980-a6a7-11eb-80dc-3a1515024518.png" width="40%" height="50%">
 </p>
 
