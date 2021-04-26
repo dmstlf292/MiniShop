@@ -1,7 +1,7 @@
 # MiniShop
 
 ### 💻 This is Personal Project and Started at 12/04/2021 ~ 18/04/2021
-* Worked on Twitter Clone Coding with VScode, MacOS & MongoDB
+* Mini Shopping Mall with VScode, MacOS & MongoDB
 * Functions 
   - Login/Logout/Join/Hash Password, 
   - Upload Product, Payment with Paypal, My History
